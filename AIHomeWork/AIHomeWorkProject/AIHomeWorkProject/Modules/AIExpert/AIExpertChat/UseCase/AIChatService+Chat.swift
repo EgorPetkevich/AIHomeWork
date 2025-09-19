@@ -1,0 +1,24 @@
+//
+//  AIChatService+Chat.swift
+//  AIHomeWorkProject
+//
+//  Created by George Popkich on 17.09.24.
+//
+
+import Foundation
+import Storage
+
+struct AIExpertChatOpenAIServiceUseCase:
+    AIExpertChatOpenAIServiceUseCaseProtocol {
+    
+    private let service: OpenAIChatService
+    
+    init(service: OpenAIChatService) {
+        self.service = service
+    }
+    
+    func fetchChat(dto: any DTODescription, completion: TaskCompletionHandler) {
+        self.service.fetchChat(dto: dto, completion: completion)
+    }
+    
+}
