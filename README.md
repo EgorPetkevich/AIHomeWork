@@ -34,5 +34,17 @@ This makes it easy to get help on homework problems by simply photographing them
 - Camera (`NSCameraUsageDescription`): *Allow camera access to capture homework photos.*  
 - Photo Library (`NSPhotoLibraryUsageDescription`): *Allow photo access to upload images to the AI chat.*  
 
+## Screenshots
+
+### New Chat
+![New Chat](Screenshots/NewChat.PNG)
+
+### Task Example
+![Task](Screenshots/Task.PNG)
+
+### Image-based Task
+![Image Task](Screenshots/ImageTask.png)
+
 ## Installation
 1. Clone the repository: git clone https://github.com/EgorPetkevich/AIHomeWork.git
+   
