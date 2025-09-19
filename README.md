@@ -36,14 +36,16 @@ This makes it easy to get help on homework problems by simply photographing them
 
 ## Screenshots
 
-### New Chat
-![New Chat](Screenshots/NewChat.PNG)
+<p float="left">
+  <img src="Screenshots/Home:Main.PNG" alt="Home" width="200"/>
+  <img src="Screenshots/History.PNG" alt="History" width="200"/>
+  <img src="Screenshots/NewChat.PNG" alt="New Chat" width="200"/>
+</p>
 
-### Task Example
-![Task](Screenshots/Task.PNG)
-
-### Image-based Task
-![Image Task](Screenshots/ImageTask.png)
+<p float="left">
+  <img src="Screenshots/Task.PNG" alt="Task" width="200"/>
+  <img src="Screenshots/ImageTask.png" alt="Image Task" width="200"/>
+</p>
 
 ## Installation
 1. Clone the repository: git clone https://github.com/EgorPetkevich/AIHomeWork.git
