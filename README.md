@@ -17,11 +17,10 @@ AIHomeWork is an educational iOS app that integrates an AI-based chat system to 
 ## 📦 Technologies
 - Swift / UIKit  
 - CoreData  
-- MVVM + Coordinator + Assembler architecture  
 - SnapKit (UI layout)   
 - Lottie (animations)   
 - AI API integration (e.g. OpenAI API)  
-- Adapty (paywall management)
+- Adapty (paywall management and A/B testing)
 
 ## Architecture
 - **MVVM:** separates UI from business logic for clear data flow  
